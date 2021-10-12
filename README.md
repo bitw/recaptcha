@@ -18,7 +18,7 @@ Add the following line to the `require` section of `composer.json`:
 ```json
 {
     "require": {
-        "bitw/recaptcha": "dev-master"
+        "bitw/recaptcha": "^2.2"
     }
 }
 ```
