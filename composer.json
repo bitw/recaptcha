@@ -1,8 +1,8 @@
 {
-    "name": "greggilbert/recaptcha",
+    "name": "Bitw/recaptcha",
     "description": "reCAPTCHA Validator for Laravel 5",
 	"keywords": ["recaptcha", "captcha", "laravel", "laravel5"],
-	"homepage": "http://github.com/greggilbert/recaptcha",
+	"homepage": "http://github.com/Bitw/recaptcha",
 	"license": "MIT",
     "abandoned": true,
     "authors": [
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0",
+        "php": ">=7.1",
         "illuminate/support": "^5.1"
     },
     "autoload": {
@@ -20,7 +20,7 @@
             "src/migrations"
         ],
         "psr-4": {
-            "Greggilbert\\Recaptcha\\": "src/"
+            "Bitw\\Recaptcha\\": "src/"
         }
     },
     "extra": {

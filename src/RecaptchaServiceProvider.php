@@ -1,4 +1,4 @@
-<?php namespace Greggilbert\Recaptcha;
+<?php namespace Bitw\Recaptcha;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -6,7 +6,7 @@ use Illuminate\Support\ServiceProvider;
  * Service provider for the Recaptcha class
  *
  * @author     Greg Gilbert
- * @link       https://github.com/greggilbert
+ * @link       https://github.com/Bitw
  */
 class RecaptchaServiceProvider extends ServiceProvider
 {
