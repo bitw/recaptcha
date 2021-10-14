@@ -5,15 +5,9 @@
 	"homepage": "http://github.com/Bitw/recaptcha",
 	"license": "MIT",
     "abandoned": true,
-    "authors": [
-        {
-            "name": "Greg Gilbert",
-            "email": "greg@greg-gilbert.com"
-        }
-    ],
     "require": {
         "php": ">=7.1",
-        "illuminate/support": "^5.1"
+        "illuminate/support": "^6.0"
     },
     "autoload": {
         "classmap": [
