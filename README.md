@@ -7,9 +7,11 @@ Thanks to everyone for sticking by this package for years!
 Recaptcha
 =========
 
-A reCAPTCHA Validator for Laravel 5. 
+A reCAPTCHA Validator for Laravel 5, 6. 
 
 > (Looking for a Laravel 4 version? Pull the latest 1.x tag. For Laravel 5.0, pull the latest 2.0 tag.)
+
+> (Looking for a Laravel 6 version? Pull the latest 6.x tag.)
 
 ## Installation
 
@@ -18,7 +20,7 @@ Add the following line to the `require` section of `composer.json`:
 ```json
 {
     "require": {
-        "bitw/recaptcha": "^2.2"
+        "bitw/recaptcha": "^6.0"
     }
 }
 ```
